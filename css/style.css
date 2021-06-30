@@ -150,11 +150,13 @@ body {
   width: 100%;
   border: none;
   background-color: #dcdcdc;
+  margin-left: 10px;
+  border-radius: 30px;  
 }
 
 input {
-  border-radius: 30px;
   outline: none;
+  
 }
 
 .label-input {
@@ -163,12 +165,12 @@ input {
   display: flex;
   align-items: center;
   border-radius: 30px;
-  
 }
 
 .icon-modify {
   color: #7f8c8d;
   padding: 0 6px;
+  margin-left: 10px;
 }
 
 .second-content {
