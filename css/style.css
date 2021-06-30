@@ -152,11 +152,18 @@ body {
   background-color: #dcdcdc;
 }
 
+input {
+  border-radius: 30px;
+  outline: none;
+}
+
 .label-input {
   background-color: #dcdcdc;
   margin: 7px;
   display: flex;
   align-items: center;
+  border-radius: 30px;
+  
 }
 
 .icon-modify {
@@ -381,6 +388,7 @@ body {
 
   .form {
     width: 90%;
+    border-radius: 15px;
   }
 
   /* ANIMAÇÃO MOBILE CSS*/
