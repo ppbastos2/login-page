@@ -47,7 +47,7 @@ body {
 .content::before {
   content: '';
   position: absolute;
-  background-color: #7c6cee;
+  background-color: #728AEE;
   width: 40%;
   height: 100%;
   border-top-left-radius: 15px;
@@ -66,7 +66,7 @@ body {
 }
 
 .title-second {
-  color: #7c6cee;
+  color: #728AEE;
   margin-bottom: 20px;
 }
 
@@ -90,21 +90,26 @@ body {
 
 .btn-primary:hover {
   background-color: #fff;
-  color: #7c6cee;
+  color: #728AEE;
 }
 
 .btn-second {
-  background-color: #7c6cee;
+  background-color: #728AEE;
   color: #fff;
   width: 150px;
   margin-top: 20px;
-  border-color: #7c6cee;
+  border-color: #728AEE;
 }
 
 .btn-second:hover {
   background-color: #fff;
-  color: #7c6cee;
-  border: 2px solid #7c6cee;
+  color: #728AEE;
+  border: 2px solid #728AEE;
+}
+
+/* LOGO PRINCIPAL */
+.logo-principal {
+  width: 60%;
 }
 
 .first-content {
@@ -171,7 +176,6 @@ input {
   color: #7f8c8d;
   padding: 0 6px;
   margin-left: 10px;
-  
 }
 
 .second-content {
